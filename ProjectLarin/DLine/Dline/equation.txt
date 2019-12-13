@@ -1,0 +1,9 @@
+# Solve the equation 5x^2 - 18x + 9 = 0
+a = 5
+b = -18
+c = 9
+D = b**2 - 4 * a * c
+x1 = (-b + sqrt(D)) / (2 * a)
+x2 = (-b - sqrt(D)) / (2 * a)
+x1
+x2
